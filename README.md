@@ -1,5 +1,3 @@
-README.txt
-
 ===========================================
 Sistema de Pedidos de Lanche - Java (Entrada Interativa via Console)
 ===========================================
